@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC",ABC
+http://fl4.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" tvg-name="CBS",CBS
+http://fl4.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-wnbc-us.png?raw=true" tvg-name="NBC",NBC
+http://fl4.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX",FOX
+http://fl4.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
+http://fl4.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
+http://fl4.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png" tvg-name="FOOD NETWORK",FOOD NETWORK
+http://fl4.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" tvg-name="Hallmark Channel",Hallmark Channel
+http://fl4.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO",HBO
+http://fl4.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
+http://fl4.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",History
+http://fl4.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" tvg-name="Paramount Network",Paramount Network
+http://fl4.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="MSNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-alt-us.png" tvg-name="MSNBC",MSNBC
+http://fl4.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-name="CNN",CNN
+http://fl4.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" tvg-name="National Geographic",National Geographic
+http://fl4.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" tvg-name="TLC",TLC
+http://fl4.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-us.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
+http://fl4.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" tvg-name="USA Network",USA Network
+http://fl4.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" tvg-name="TSN 1",TSN 1
+http://fl4.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" tvg-name="TSN 2",TSN 2
+http://fl4.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" tvg-name="TSN 3",TSN 3
+http://fl4.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" tvg-name="TSN 4",TSN 4
+http://fl4.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" tvg-name="TSN 5",TSN 5
+http://fl4.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/w-network-ca.png" tvg-name="W NETWORK",W NETWORK
+http://fl4.moveonjoy.com/W_NETWORK/index.m3u8

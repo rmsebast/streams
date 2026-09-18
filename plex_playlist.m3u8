@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="CBC.News.Network.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-news-network-ca.png" tvg-name="CBC News Network",CBC News Network
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000042/CBCRCLINEAR_TOR_CBCNN/master_3000.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/game-show-network-us.png" tvg-name="GAME SHOW NETWORK",GAME SHOW NETWORK
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
